@@ -1,4 +1,4 @@
 - **Name:** Nguyen Duc Loi
-- **University:** FPT University
 - **Major:** Artificial Intelligence
+- **University:** FPT University
 - **Email:** ducloi2018vtel@gmail.com
